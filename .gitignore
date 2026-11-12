@@ -1,0 +1,25 @@
+# Local credentials, tokens and settings
+.local/
+**/credentials.json
+**/credentials*.json
+**/*.credential.xml
+.env
+.env.*
+*.pem
+*.key
+
+# Generated previews, logs and builds
+/previews/
+/AirspaceRadar.exe
+*.log
+*.tmp
+*.bin
+*.elf
+*.map
+*.o
+*.pdb
+__pycache__/
+.vs/
+.vscode/
+Thumbs.db
+.DS_Store

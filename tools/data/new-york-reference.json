@@ -1,0 +1,24 @@
+{
+  "source": "OurAirports public-domain runway/navaid subset, retrieved 2026-11-07. Only open runways with both endpoints included.",
+  "runwaySource": "https://raw.githubusercontent.com/davidmegginson/ourairports-data/main/runways.csv",
+  "navaidSource": "https://raw.githubusercontent.com/davidmegginson/ourairports-data/main/navaids.csv",
+  "runways": [
+    {"airport":"KJFK","name":"04L/22R","lon1":-73.785599,"lat1":40.622002,"lon2":-73.764702,"lat2":40.6488},
+    {"airport":"KJFK","name":"04R/22L","lon1":-73.77030181884766,"lat1":40.62540054321289,"lon2":-73.75489807128906,"lat2":40.645198822021484},
+    {"airport":"KJFK","name":"13L/31R","lon1":-73.790199,"lat1":40.657799,"lon2":-73.7593,"lat2":40.6437},
+    {"airport":"KJFK","name":"13R/31L","lon1":-73.816704,"lat1":40.648399,"lon2":-73.771599,"lat2":40.627899},
+    {"airport":"KLGA","name":"04/22","lon1":-73.88410187,"lat1":40.76919937,"lon2":-73.87069702,"lat2":40.78540039},
+    {"airport":"KLGA","name":"13/31","lon1":-73.87850189,"lat1":40.78229904,"lon2":-73.85710144,"lat2":40.77209854},
+    {"airport":"KEWR","name":"11/29","lon1":-74.180748,"lat1":40.702815,"lon2":-74.156502,"lat2":40.701203},
+    {"airport":"KEWR","name":"4L/22R","lon1":-74.179456,"lat1":40.675392,"lon2":-74.16217,"lat2":40.70257},
+    {"airport":"KEWR","name":"4R/22L","lon1":-74.174253,"lat1":40.677588,"lon2":-74.158539,"lat2":40.702299}
+  ],
+  "navaids": [
+    {"id":"JFK","lon":-73.77140045166016,"lat":40.63290023803711},
+    {"id":"LGA","lon":-73.868599,"lat":40.783724},
+    {"id":"CRI","lon":-73.89440155029297,"lat":40.61249923706055},
+    {"id":"COL","lon":-74.15979766845703,"lat":40.31169891357422},
+    {"id":"TEB","lon":-74.06220245361328,"lat":40.84870147705078},
+    {"id":"SBJ","lon":-74.74169921875,"lat":40.58300018310547}
+  ]
+}
